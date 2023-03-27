@@ -1,7 +1,6 @@
 package com.movies.bookmyshow.movies.persistance.repo;
 
 import com.movies.bookmyshow.movies.persistance.entity.MovieEntity;
-import com.movies.bookmyshow.users.persistance.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
